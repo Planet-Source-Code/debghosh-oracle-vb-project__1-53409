@@ -1,0 +1,22 @@
+ SCOTT 
+    Table
+        ACCOUNT
+        BONUS
+        DEBATEST
+        DEPT
+        EMP
+        MICROSOFTDTPROPERTIES
+        RECEIPT
+        SALGRADE
+    View
+        DVTEST
+    Sequence
+        MICROSOFTSEQDTPROPERTIES
+    Synonyms
+    Procedure
+        DT_ADDUSEROBJECT
+        DT_DROPUSEROBJECTBYID
+        DT_SETPROPERTYBYID
+    Package
+    Package Body
+    Type
